@@ -4,7 +4,11 @@ Using data augmentation and batch normalization layers in unet.
 Reached 0.687 inline, keep promoting.
 
 Here record the score using unet.Oher networks would be shown in other repositories.
+
 0.628 - base unet without data augmentation.
+
 0.661 - base unet with data augmentation: veitical and horizonal flip, 90, 180, 270 degree rotation.
+
 0.652 - base unet with data augmentation: veitical and horizonal flip, 90, 180, 270 degree rotation, and with value of pixels random shift.
+
 0.687 - unet with batch normalization layers with data augmentation: veitical and horizonal flip, 90, 180, 270 degree rotation.
