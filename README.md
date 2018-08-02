@@ -14,3 +14,5 @@ Here records the scores using unet.Other networks would be shown in other reposi
 0.652 - base unet with data augmentation: veitical and horizonal flip, 90, 180, 270 degree rotation, and with value of pixels random shift.
 
 0.687 - unet with batch normalization layers with data augmentation: veitical and horizonal flip, 90, 180, 270 degree rotation.
+
+0.587 - unet with sample balancing.
