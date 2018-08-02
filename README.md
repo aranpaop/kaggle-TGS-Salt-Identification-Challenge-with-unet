@@ -3,7 +3,7 @@ Kaggle TGS Salt Identification Challenge with unet.
 Using data augmentation and batch normalization layers in unet.
 Reached 0.687 inline, keep promoting.
 
-Here record the score using unet.Oher networks would be shown in other repositories.
+Here records the scores using unet.Other networks would be shown in other repositories.
 
 0.628 - base unet without data augmentation.
 
