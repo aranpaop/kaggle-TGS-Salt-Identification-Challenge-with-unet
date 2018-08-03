@@ -16,3 +16,5 @@ Here records the scores using unet.Other networks would be shown in other reposi
 0.687 - unet with batch normalization layers with data augmentation: veitical and horizonal flip, 90, 180, 270 degree rotation.
 
 0.587 - unet with sample balancing.
+
+0.656 - segnet.
