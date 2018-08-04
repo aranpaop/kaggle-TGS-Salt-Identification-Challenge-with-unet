@@ -18,3 +18,5 @@ Here records the scores using unet.Other networks would be shown in other reposi
 0.587 - unet with sample balancing.
 
 0.656 - segnet.
+
+0.715 - Change the order of bn and activation layers.
