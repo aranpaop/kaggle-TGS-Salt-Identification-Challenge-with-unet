@@ -22,3 +22,5 @@ Here records the scores using unet.Other networks would be shown in other reposi
 0.715 - Change the order of bn and activation layers.
 
 0.541 - add Gaussian noise, helpless.
+
+0.722 - using crf
